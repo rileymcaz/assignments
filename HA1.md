@@ -68,6 +68,7 @@ normal weight font:
 
 - Preferred Name
 - Pronunciation of your Preferred Name
+- NETID
 - Github Profile
 - Experience with Javascript
 - Experience with MVC
