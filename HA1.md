@@ -71,10 +71,11 @@ normal weight font:
 - Github Profile
 - Experience with Javascript
 - Experience with MVC
+- Experience with git
 
 The Github Profile response should be a clickable link to your Github profile.
 
-Your Experience with Javascript and MVC can be "None" if you do not have any.
+Your Experience with Javascript, MVC, and git can be "None" if you do not have any.
 If you have seen these in a class, please state so and how big a project you
 have worked with using these technologies.
 
