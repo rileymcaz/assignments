@@ -2,6 +2,7 @@
 
 History:
 
+- Clarification, 2019/01/10 - You should create the two files for submission.
 - Released, 2019/01/08
 
 In this assignment we are:
@@ -16,9 +17,10 @@ style information should be in the HTML tags. Do not use HTML tags like
 `<center>`, `<b>`, or `<i>` to alter visual appearance.
 
 Use the following link to create your github repository for this assignment:
-[https://classroom.github.com/a/Lg2uxLgy](https://classroom.github.com/a/Lg2uxLgy) 
-Your git repository should contain one HTML file named `HA1.html` as well as a
-CSS file names `HA1.css` and an image file.
+[https://classroom.github.com/a/Lg2uxLgy](https://classroom.github.com/a/Lg2uxLgy)
+At the time of submission, your git repository should contain one HTML file
+named `HA1.html` as well as a CSS file names `HA1.css` and an image file.
+Please create these files as part of the assignment.
 
 The webpage should consist of two side-by-side columns. All elements should
 have a minimum of five pixels of spacing between each other and the edges of
