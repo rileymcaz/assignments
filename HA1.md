@@ -2,6 +2,7 @@
 
 History:
 
+- Clarification, 2019/01/11 - The box with the image should have dashed lines
 - Clarification, 2019/01/10 - You should create the two files for submission.
 - Released, 2019/01/08
 
@@ -36,7 +37,7 @@ questions), style (e.g., spacing, boxes, borders, fonts), and constraints
 #### Column 1
 
 The first column should be 500 pixels wide. In it should be a single box with
-a two pixel black border with black lines. There should be at least five
+a two pixel black border with dashed lines. There should be at least five
 pixels of spacing between the border and anything inside of it. Within the box
 there should be:
 
