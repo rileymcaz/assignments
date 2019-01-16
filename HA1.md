@@ -2,6 +2,8 @@
 
 History:
 
+- Clarification, 2019/01/16 - Images may be used in class later, bold font
+  should be dark blue
 - Clarification, 2019/01/11 - The box with the image should have dashed lines
 - Clarification, 2019/01/10 - You should create the two files for submission.
 - Released, 2019/01/08
@@ -51,7 +53,10 @@ Clicking on the image should navigate to the full image.
 have noticed or used yourself. Do not do an online search for images of poor
 design. You should be able to explain what's wrong from personal experience.
 You can take you own photographs or you can search for a pre-existing
-photograph of that thing.**
+photograph of that thing. If you use a pre-existing photograph, it should be
+cited. These images may be used as examples in class -- please let the
+instructor know if you would like your image to be anonymous or if you would
+be uncomfortable with its use.**
 
 - Underneath the image, left justified: Text explaining (1) what the image is
   showing, (2) why you chose it, and (3) why it isn't designed well.
@@ -66,8 +71,8 @@ the first column by at least 25 pixels. It should contain two portions.
 The first portion should be in a box with a one pixel dark blue border. There
 should be at least 5 pixels of spacing between the border and anything inside
 of it. The box should be aligned with the top of the dashed box in the first
-column. Inside the box, include each label below in bold with your answer in a
-normal weight font:
+column. Inside the box, include each label below in bold darkblue  with your
+answer in a normal weight font:
 
 - Preferred Name
 - Pronunciation of your Preferred Name
