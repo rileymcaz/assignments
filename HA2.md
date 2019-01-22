@@ -51,7 +51,7 @@ is at least 50 pixels from the top and left of the page area in the browser.
 
 #### Controls
 
-The controls consist of seven buttons and two text fields. All text in the
+The controls consist of two buttons and one text field. All text in the
 controls should have bold, 15 pt sans serif fonts.
 
 The first button is labeled `Create:`.
