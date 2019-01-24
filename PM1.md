@@ -17,12 +17,12 @@ In this milestone we are:
 
 The artifacts generated should be presented in a single HTML page as described
 below. The repository includes the CSS for the HTML page. Do not alter the
-CSS. No style information should be in the HTML tags. Do not use
-HTML tags like `<center>`, `<b>`, or `<i>` to alter visual appearance.
-Programmatically added SVG elements may have style attributes.
+CSS. No style information should be in the HTML tags. Do not use HTML tags
+like `<center>`, `<b>`, or `<i>` to alter visual appearance. If you use a tag,
+it should be appropriate to the content described.
 
 Use the following link to create your github repository for this assignment:
-[https://classroom.github.com/a/JSD2B7Jb](https://classroom.github.com/a/JSD2B7Jb)
+[https://classroom.github.com/a/JSD2B7Jb](https://classroom.github.com/a/JSD2B7Jb).
 At the time of submissions, your git repository should contain one HTML file
 named `PM1.html` as well as the unaltered CSS and JS files. It should also
 include any images or media needed for the report and `PM1.html`.
@@ -131,10 +131,6 @@ The content of this will be graded on appropriateness of the actions and
 decomposition, appropriateness of labeling any action atomic, and
 thoroughness.
 
-<p align="center">
-  <img src="images/PM1-ta.png" width=300 />
-</p>
-
 
 ### Requirements
 
@@ -153,10 +149,6 @@ All Requirements content should be under the Section Header `Requirements`.
 The content will be graded on the appropriateness of the requirements, the
 correctness of the categorization of requirements, and the appropriateness and
 thoroughness of the rationale for the ordering.
-
-<p align="center">
-  <img src="images/PM1-reqs.png" width=300 />
-</p>
 
 ### More Detail On Format
 
