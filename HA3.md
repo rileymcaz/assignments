@@ -2,6 +2,8 @@
 
 Version History: 
 
+- 2019/02/13: Clarify model -- you can make changes to the model in this
+  assignment.
 - 2019/02/05: Released
 
 In this assignment, we are exercising:
