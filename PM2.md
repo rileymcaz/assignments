@@ -2,7 +2,7 @@
 
 Version History: 
 
-- Released 2019/2/11
+- Released 2019/2/13
 
 The subject of the project is a stand alone ordering system for a restaurant,
 such as those seen locally as places like In and Out Deli, Panera, and Jimmy's
@@ -21,8 +21,9 @@ Programmatically added SVG elements may have style attributes.
 Use the following link to create your github repository for this assignment:
 [https://classroom.github.com/a/weWXyamW](https://classroom.github.com/a/weWXyamW)
 At the time of submission, your git repository should contain one HTML file
-named `PM2.html` as well as one CSS file and the included JS file. It should
-also include any images or media needed for the report and `PM2.html`. 
+named `PM2.html` as well as one CSS file named `PM2.css` and one JS file
+called `PM2.js`. It should also include any images or media needed for the
+report and `PM2.html`. 
 
 ### Content
 
