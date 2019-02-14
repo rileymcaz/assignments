@@ -89,9 +89,10 @@ titles `Context`, `Roughs`, `Design #1`, `Design #2`, and `Design #3` each in
 each tab should be 750 pixels wide. The shown body is rounded in all free
 areas. 
 
-Clicking on a tab should display the content of only that tab. All content
-should be within a single HTML file. Do not use multiple files. Consider using
-`display: none;` in CSS to hide content.
+Clicking on a tab should display the content of only that tab. All text
+content should be within a single HTML file. Do not use multiple HTML files. 
+Consider using `display: none;` in CSS to hide content and JS to handle the
+interactivity.
 
 The body text should be 12 pt sans-serif and black. Blocks of text should be
 prevented from running within 25pts of the left and right side. There should
