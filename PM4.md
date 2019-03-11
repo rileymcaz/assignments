@@ -47,7 +47,9 @@ least one observation session in some role (e.g., facilitator, observer).
 The materials related to your evaluation should be included as below:
 
 
-### Content - Header Information
+### Content 
+
+#### Header Information
 
 At the top of your report, state the names of all the team members as well as
 your team name. Also include an image of your paper prototype design. 
