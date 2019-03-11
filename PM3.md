@@ -2,6 +2,7 @@
 
 Version History: 
 
+- Added Team Repository Link 2019/3/11
 - Released 2019/2/18
 
 The subject of the project is a stand alone ordering system for a restaurant,
@@ -26,7 +27,7 @@ below. No style information should be in the HTML tags. Do not use
 HTML tags like `<center>`, `<b>`, or `<i>` to alter visual appearance.
 Programmatically added SVG elements may have style attributes.
 
-See your group's thread on Piazza for the github submission link.
+Create a team repository: [https://classroom.github.com/g/09kiK6pP](https://classroom.github.com/g/09kiK6pP).
 At the time of submission, it should contain one HTML file named `PM3.html`
 and any other files needed by the assignment (CSS files, Javascript files,
 image or media needed).
