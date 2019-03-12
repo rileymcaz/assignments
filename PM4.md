@@ -2,7 +2,8 @@
 
 Version History: 
 
-- Released 2018/3/11
+- Revised: 2019/3/12 - Apportion points to work distribution
+- Released 2019/3/11
 
 The team portion of this milestone is due Friday March 29, 8 PM.
 
@@ -67,7 +68,7 @@ Focus on the task of ordering lunch for first-time users.
 You will be graded on the appropriateness of these materials. You may include
 a Rationale sub-section to explain any choices you made.
 
-#### Section III: Observational Analysis (30 pts)
+#### Section III: Observational Analysis (25 pts)
 
 After conducting the observations, analyze the results of the observations and
 report on the analysis as described in Lectures 15 and 16.
@@ -180,7 +181,7 @@ GivenName's contributions were...
 GivenName did a good job on the paper prototype but was two days later than we
 planned so we had to scramble to make the movie.
 ```
-### Distribution
+### Distribution (5 pts)
 
 All team members should participate in the discussion of evaluation design,
 observations themselves, and suggestions for improvement. At least two team
