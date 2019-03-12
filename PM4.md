@@ -2,7 +2,8 @@
 
 Version History: 
 
-- Revised: 2019/3/12 - Apportion points to work distribution
+- Revised: 2019/3/12 - Apportion points to work distribution and update
+  individual evaluation to include apportionment notes.
 - Released 2019/3/11
 
 The team portion of this milestone is due Friday March 29, 8 PM.
@@ -34,8 +35,9 @@ assignment:
 [https://classroom.github.com/a/H7dTL7sv](https://classroom.github.com/a/H7dTL7sv).
 At the time of submission, it should contain a text file named
 `PM4-evaluations.txt.` The file should have the content described under
-Individual Evaluations below. This is the same format used in PM3. The notes
-on how you may want to distribute the work are different. 
+Individual Evaluations below. This is a similar format used in PM3 with one
+change. See bolded comments below.  Also, the notes on how you may want to
+distribute the work are different. 
 
 ### Conducting the Evaluations
 
@@ -140,6 +142,9 @@ Inky: 22
 Clyde: 20
 
 ```
+
+**If the distribution is largely uneven, please make a note as to why it
+was not evenly apportioned and what was done to try to divide it evently.**
 
 The second paragraph should describe what your contributions to the project
 milestone were:
