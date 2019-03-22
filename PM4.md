@@ -26,14 +26,14 @@ HTML tags like `<center>`, `<b>`, or `<i>` to alter visual appearance.
 Programmatically added SVG elements may have style attributes.
 
 Create a team repository:
-[https://classroom.github.com/g/r14TtSDz](https://classroom.github.com/g/r14TtSDz).
+[https://classroom.github.com/g/m72PYr4n](https://classroom.github.com/g/m72PYr4n).
 At the time of submission should contain one HTML file named `PM4.html.` It
 should also include any CSS files, Javascript files, images or media needed
 for the report and `PM4.html`. 
 
 Use the following link to create your individual github repository for this
 assignment:
-[https://classroom.github.com/g/m72PYr4n](https://classroom.github.com/g/m72PYr4n).
+[https://classroom.github.com/a/H7dTL7sv](https://classroom.github.com/a/H7dTL7sv).
 At the time of submission, it should contain a text file named
 `PM4-evaluations.txt.` The file should have the content described under
 Individual Evaluations below. This is a similar format used in PM3 with one
