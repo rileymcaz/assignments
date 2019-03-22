@@ -2,6 +2,7 @@
 
 Version History: 
 
+- Revised: 2019/3/22 - Change Github link to allow old team names
 - Revised: 2019/3/12 - Apportion points to work distribution and update
   individual evaluation to include apportionment notes.
 - Released 2019/3/11
@@ -32,7 +33,7 @@ for the report and `PM4.html`.
 
 Use the following link to create your individual github repository for this
 assignment:
-[https://classroom.github.com/a/H7dTL7sv](https://classroom.github.com/a/H7dTL7sv).
+[https://classroom.github.com/g/m72PYr4n](https://classroom.github.com/g/m72PYr4n).
 At the time of submission, it should contain a text file named
 `PM4-evaluations.txt.` The file should have the content described under
 Individual Evaluations below. This is a similar format used in PM3 with one
