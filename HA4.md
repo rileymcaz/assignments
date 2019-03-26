@@ -64,7 +64,7 @@ two conditions.
 What is a good default text size for notifications on a smart watch?
 
 
-#### A.2 Signup Process
+#### A.2 Tutorials
 
 Suppose you're working on social media app at a mid-size start up. Your app currently
 drops users into a tutorial as soon as they sign up, but your coworkers are
