@@ -66,10 +66,12 @@ What is a good default text size for notifications on a smart watch?
 
 #### A.2 Signup Process
 
-Suppose you work for a social media start up. Your company currently has a
-multi-page sign up process but is considering a single page design that uses
-collapsible panels to divide the process instead. Does either design result in
-more people completing the site sign up process? 
+Suppose you're working on social media app at a mid-size start up. Your app currently
+drops users into a tutorial as soon as they sign up, but your coworkers are
+considering replacing it with a single signifier as to where the tutorial is
+located so savvy users can start posting right away. Does either design result
+in more people making their first post?
+
 
 #### A.3 Number of Participants
 
