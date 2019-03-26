@@ -167,7 +167,7 @@ rectangle.
 Is there a significant difference in reaction to the two welcome screens?
 
 
-### B.4
+### B.4 Navigation
 
 An experiment measured how many basic interactions (clicks, moves, etc) are
 fired when trying to find a particular feature across three three menu
