@@ -7,3 +7,5 @@
 - [Project Milestone 2](PM2.md)
 - [Project Milestone 3](PM3.md)
 - [Project Milestone 4](PM4.md)
+- [Homework Assignment 4](HA4.md)
+- [Project Milestone 5](PM5.md)
