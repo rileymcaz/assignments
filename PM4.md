@@ -2,6 +2,7 @@
 
 Version History: 
 
+- Revised: 2019/3/22 - Change Github link to allow old team names
 - Revised: 2019/3/12 - Apportion points to work distribution and update
   individual evaluation to include apportionment notes.
 - Released 2019/3/11
@@ -25,7 +26,7 @@ HTML tags like `<center>`, `<b>`, or `<i>` to alter visual appearance.
 Programmatically added SVG elements may have style attributes.
 
 Create a team repository:
-[https://classroom.github.com/g/r14TtSDz](https://classroom.github.com/g/r14TtSDz).
+[https://classroom.github.com/g/m72PYr4n](https://classroom.github.com/g/m72PYr4n).
 At the time of submission should contain one HTML file named `PM4.html.` It
 should also include any CSS files, Javascript files, images or media needed
 for the report and `PM4.html`. 
