@@ -2,6 +2,7 @@
 
 Version History: 
 
+- Revised 2019/4/1: Adding Github links
 - Released 2019/3/26
 
 The team portion of this milestone is due Friday April 12, 8 PM.
@@ -18,7 +19,8 @@ In this milestone we are:
   members to this milestone.
 
 
-Create a team repository: TBA.
+Create a team repository: 
+[https://classroom.github.com/g/Izi-F_Yx](https://classroom.github.com/g/Izi-F_Yx)
 At the time of submission should contain your prototype in a directory called
 `prototype` and file named `PM5.html.` It
 should also include any CSS files, Javascript files, images or media needed
@@ -28,7 +30,7 @@ prototype, `start.html`.
 
 Use the following link to create your individual github repository for this
 assignment:
-TBA.
+[https://classroom.github.com/a/mYMSFbey](https://classroom.github.com/a/mYMSFbey)
 At the time of submission, it should contain a text file named
 `PM5-evaluations.txt.` The file should have the content described under
 Individual Evaluations below. This is a similar format used in PM3 with one
