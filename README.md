@@ -9,3 +9,4 @@
 - [Project Milestone 4](PM4.md)
 - [Homework Assignment 4](HA4.md)
 - [Project Milestone 5](PM5.md)
+- [Project Milestone 6](PM6.md)
