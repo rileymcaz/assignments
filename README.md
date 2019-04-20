@@ -11,3 +11,4 @@
 - [Project Milestone 5](PM5.md)
 - [Project Milestone 6](PM6.md)
 - [Project Presentations](PP.md)
+- [Project Milestone 7](PM7.md)
